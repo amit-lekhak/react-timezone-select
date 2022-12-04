@@ -35,7 +35,6 @@
     "dist/**/*",
     "package.json"
   ],
-  "type": "module",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/dist/index.d.ts",
